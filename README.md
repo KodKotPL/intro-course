@@ -14,3 +14,4 @@ The 12 week course will include all the topics you need to get started with prog
 * Lists
 * Dictionaries
 * Classes
+* Unit Testing
